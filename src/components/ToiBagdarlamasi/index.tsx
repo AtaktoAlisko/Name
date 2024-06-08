@@ -18,7 +18,7 @@ export default function ToiBagdarlamasi() {
       <div className={`${styles.container} ${styles.right}`}>
         <div className={styles.content}>
           <Image src={cake}  alt="Беташар" width={300} height={200} />
-          <h2 className='mt-2 text-center '>18:30  <br/>КӨТАШАР</h2>
+          <h2 className='mt-2 text-center '>18:30  <br/>БЕТАШАР</h2>
         </div>
       </div>
 
